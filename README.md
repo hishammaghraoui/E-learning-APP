@@ -1,4 +1,4 @@
-# flutter_app2
+# E-learning APPLICATION 
 
 A new Flutter application.
 
